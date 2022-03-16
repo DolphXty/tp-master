@@ -1,6 +1,6 @@
 package tp;
 
-public class IHospitalException extends Throwable {
+public class IHospitalException extends Exception {
     public IHospitalException(String s) {
         super(s);
     }
@@ -9,5 +9,4 @@ public class IHospitalException extends Throwable {
     public String toString() {
         return super.getMessage();
     }
-
 }

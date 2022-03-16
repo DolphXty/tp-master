@@ -3,7 +3,6 @@ package tp;
 import tp.person.Doctor;
 import tp.person.Person;
 
-import javax.print.Doc;
 import java.util.ArrayList;
 
 public class DoctorList {

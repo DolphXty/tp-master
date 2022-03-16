@@ -1,6 +1,5 @@
 package tp;
 
-import tp.person.Doctor;
 import tp.person.Patient;
 
 public class AddPatientCommand extends Command {
